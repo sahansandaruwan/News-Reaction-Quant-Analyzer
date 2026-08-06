@@ -1,6 +1,5 @@
 {
   "name": "News Reaction Quant Analyzer",
   "description": "Quantitative finance stock price and news reaction analyzer using statistical event study models, abnormal returns, correlation and OLS regression for top tech companies.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": []
 }
